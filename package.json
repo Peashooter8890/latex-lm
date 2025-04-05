@@ -1,0 +1,17 @@
+{
+  "name": "latex_renderer_for_notebooklm",
+  "version": "1.0.0",
+  "description": "A browser extension to render LaTeX in web pages",
+  "main": "dist/content.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "katex": "^0.16.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "@types/katex": "^0.16.2"
+  }
+}
