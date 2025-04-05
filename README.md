@@ -1,0 +1,1 @@
+Effortlessly render LaTeX content in Google's NotebookLM using KaTeX. This lightweight extension ensures seamless mathematical and scientific notation display within NotebookLM documents.
